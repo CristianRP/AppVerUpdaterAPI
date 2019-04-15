@@ -1,11 +1,16 @@
 {
-    "version" : [
-        {
-            "newVersion": "2",
-            "apkUrl": "https://github.com/CristianRP/AppVerUpdaterAPI/blob/master/app-debug.apk",
-            "versionNotes": [
-                "-Added more bugs to fix later"
-            ]
-        }
-    ]
+  "version": [
+    { 
+        "newVersion": "2", 
+        "apkUrl": "https://github.com/CristianRP/AppVerUpdaterAPI/blob/master/app-debug.apk",
+        "versionNotes": [ "-Added more bugs to fix later" ]
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
