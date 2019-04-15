@@ -1,6 +1,6 @@
 {
     "newVersion": "2",
-    "apkUrl": "http://172.16.116.38:3001//rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2NuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9340598f69f6cff6f6c623f5441501059e98809b/app-debugtt.apk?disposition=attachment",
+    "apkUrl": "https://github.com/CristianRP/AppVerUpdaterAPI/blob/master/app-debug.apk",
     "versionNotes": [
         "-Added more bugs to fix later"
     ]
